@@ -16,7 +16,7 @@ The simulation is based on the 2D heat equation
  Usage Instructions
 ---Clone the Repository, use the script below:
 
-git clone https://github.com/yourusername/2d-heat-conduction-simulation.git
+git clone https://github.com/SbElolen/2d-Heat-Conduction-Simulation-using-Finite-Difference-Method.git
 cd 2d-heat-conduction-simulation
 
 Also run the Script below:
